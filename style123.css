@@ -1,0 +1,64 @@
+body {
+    background-image: url(gagi.jpeg);
+    background-position: center;
+    background-size: cover;
+    }
+#pic{
+padding-left:225px
+}
+
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+input, button {
+  margin: 5px;
+  padding: 5px;
+}
+
+button {
+  cursor: pointer;
+}
+
+h2 {
+  color: #333;
+}
+
+#mylist {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+#mylist th, #mylist td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+#details {
+  margin-top: 10px;
+}
+
+.pokemon-table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.pokemon-table th, .pokemon-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+.pokemon-table button {
+  padding: 5px;
+  cursor: pointer;
+}
+
+.pokemon-table img {
+  max-width: 50px;
+  max-height: 50px;
+}
